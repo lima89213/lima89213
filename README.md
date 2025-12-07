@@ -23,8 +23,10 @@
 
 ###
 
-<p align="left">  💬 Tenho 22 anos e atualmente moro no estado de Alagoas. Minha maior especialidade é Java, porém meu conhecimento vai muito além disso, tenho conhecimento em SQL, Python.</p>
-<p align="left">  ⚡ Gosto de ler e até mesmo documentar minhas leituras, seja apenas com marcação ou anotando sobre o que vi do livro, jogar e meu maior passatempo é customizar meu Linux.</p>
+<ol>
+  <li><p align="left">  💬 Tenho 22 anos e atualmente moro no estado de Alagoas. Minha maior especialidade é Java, porém meu conhecimento vai muito além disso, tenho conhecimento em SQL, Python.</p></li>
+  <li><p align="left">  ⚡ Gosto de ler e até mesmo documentar minhas leituras, seja apenas com marcação ou anotando sobre o que vi do livro, jogar e meu maior passatempo é customizar meu Linux.</p></li>
+</ol>
 
 ###
 
