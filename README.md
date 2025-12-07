@@ -18,7 +18,7 @@
 
 ###
 <div>
-  <p>Olá👋! Meu nome é Eduardo de Lima. Sou um estudante de Ciência da computação e apaixonado por linux<img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />.</p>
+  <p>Olá👋! Meu nome é Eduardo de Lima. Sou um estudante de Ciência da computação e apaixonado por linux <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></p>
   <lo>
       <ol>- 🌱 Atualmente estou focado nos estudos voltados à área, Como por exemplo Java e ferramentas como docker</ol>
       <br>
