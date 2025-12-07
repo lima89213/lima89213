@@ -25,6 +25,7 @@
   </lo>
 </div>
 <br>
+
 ###
 
 <h2 align="center">👩‍💻  Sobre mim</h2>
@@ -33,6 +34,7 @@
 
 <p>⚡ Gosto de ler e até mesmo documentar minhas leituras, seja apenas com marcação ou anotando sobre o que vi do livro, jogar e meu maior passatempo é customizar meu Linux.</p>
 <br>
+
 ###
 
 <div align="center">
