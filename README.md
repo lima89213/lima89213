@@ -23,11 +23,12 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
-  <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="bluesky logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  [![Portifolio](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)](https://www.google.com/webhp?hl=pt-BR&sa=X&ved=0ahUKEwiNlO7MpMGOAxWME7kGHUZ5HCEQPAgI/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardolimar/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lima01dev@gmail.com)
+  [![DailyDev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=FFFFFF)](https://app.daily.dev/limax777)
+  [![Acervo](https://img.shields.io/badge/-%20?style=for-the-badge&logo=Meu-acervo&logoColor=Meu%20acervo&logoSize=Meu%20acervo&label=Meu%20acervo&labelColor=%23960019&color=%23960019&cacheSeconds=Meu%20acervo
+  )](https://www.notion.so/Minha-Biblioteca-Digital-233ff6cac8d48083a000c637bbc6e406?source=copy_link)
 </div>
 
 ###
