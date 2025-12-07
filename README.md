@@ -29,6 +29,10 @@
 
 <h2 align="center">👩‍💻  Sobre mim</h2>
 
+<p>💬 Tenho 22 anos e atualmente moro no estado de Alagoas. Minha maior especialidade é Java, porém meu conhecimento vai muito além disso, tenho conhecimento em SQL, Python.</p>
+
+<p>⚡ Gosto de ler e até mesmo documentar minhas leituras, seja apenas com marcação ou anotando sobre o que vi do livro, jogar e meu maior passatempo é customizar meu Linux.</p>
+
 ###
 
 <div align="center">
