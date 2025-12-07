@@ -12,7 +12,7 @@
   <p>Olá👋! Meu nome é Eduardo de Lima. Sou um estudante de Ciência da computação e apaixonado por <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></p>
   <ul>
       <li>- 🌱 Atualmente estou focado nos estudos voltados à área, Como por exemplo Java e ferramentas como docker</ol>
-      <li>
+      <br>
       <li>- 🔭 Estou em busca da minha primeira oportunidade de emprego, meu sonho é um dia trabalhar como desenvolvedor back-end e futuramente fullstack👨‍💻</ol>
   </ul>
 </div>
