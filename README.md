@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU2ZWFycTB5OWJieW93MDBwcWZodXlqZDVjZTN6OWRjbnl4bnNkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tBx9xFGwB9irfYM5oG/giphy.gif"  />
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU2ZWFycTB5OWJieW93MDBwcWZodXlqZDVjZTN6OWRjbnl4bnNkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tBx9xFGwB9irfYM5oG/giphy.gif"/>
 </div>
 
 ###
@@ -9,7 +9,7 @@
 ###
 
 <div>
-  <p>Olá👋! Meu nome é Eduardo de Lima. Sou um estudante de Ciência da computação e apaixonado por linux <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></p>
+  <p>Olá👋! Meu nome é Eduardo de Lima. Sou um estudante de Ciência da computação e apaixonado por <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></p>
   <lo>
       <ol>- 🌱 Atualmente estou focado nos estudos voltados à área, Como por exemplo Java e ferramentas como docker</ol>
       <br>
