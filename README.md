@@ -18,15 +18,13 @@
 
 ###
 <div>
-  <p>Olá👋! Meu nome é Eduardo de Lima. Sou um estudante de Ciência da computação e apaixonado por linux.</p>
+  <p>Olá👋! Meu nome é Eduardo de Lima. Sou um estudante de Ciência da computação e apaixonado por linux<img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />.</p>
   <lo>
       <ol>- 🌱 Atualmente estou focado nos estudos voltados à área, Como por exemplo Java e ferramentas como docker</ol>
       <br>
       <ol>- 🔭 Estou em busca da minha primeira oportunidade de emprego, meu sonho é um dia trabalhar como desenvolvedor back-end e futuramente fullstack👨‍💻</ol>
   </lo>
 </div>
-<hr>
-<p align="left">Olá 👋, Meu nome é Eduardo! Sou um estudante de ciência da computação<br><br>  - 🌱 Atualmente estou focado nos estudos e em coisas voltadas à área, como meu amor por Linux <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br><br>  - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar como desenvolvedor back-end e futuramente fullstack 👨‍💻<br><br>📝 Sobre mim<br><br>    💬 Tenho 22 anos e atualmente moro no estado de Alagoas. Minha maior especialidade é Java, porém meu conhecimento vai muito além disso, tenho conhecimento em SQL, Python.<br><br>    ⚡ Gosto de ler e até mesmo documentar minhas leituras, seja apenas com marcação ou anotando sobre o que vi do livro, jogar e meu maior passatempo é customizar meu Linux.</p>
 
 ###
 
