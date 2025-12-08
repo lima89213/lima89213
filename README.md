@@ -56,7 +56,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=devlimas&locale=pt-br&mode=daily&theme=merko&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=devlimas&locale=pt-br&mode=daily&theme=merko&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"/>
+  <img height="250" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=devlimas&layout=compact&theme=merko" />
 </div>
 
 ###
