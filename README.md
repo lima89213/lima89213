@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU2ZWFycTB5OWJieW93MDBwcWZodXlqZDVjZTN6OWRjbnl4bnNkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tBx9xFGwB9irfYM5oG/giphy.gif"/>
+  <img height="200" src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif"/>
 </div>
 
 ###
@@ -11,7 +11,7 @@
 <div>
   <p>Olá👋! Meu nome é Eduardo de Lima. Sou um estudante de Ciência da computação e apaixonado por <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></p>
   <ul>
-      <li> 🌱 Atualmente estou focado nos estudos voltados à área, Como por exemplo Java e ferramentas como docker</li>
+      <li> 🌱 Atualmente estou focado nos estudos voltados à área, Como por exemplo Java e ferramentas como docker e aws</li>
       <br>
       <li> 🔭 Estou em busca da minha primeira oportunidade de emprego, meu sonho é um dia trabalhar como desenvolvedor back-end e futuramente fullstack👨‍💻</li>
   </ul>
@@ -24,8 +24,8 @@
 ###
 
 <ul>
-  <li><p align="left">  💬 Tenho 22 anos e atualmente moro no estado de Alagoas. Minha maior especialidade é Java, porém meu conhecimento vai muito além disso, tenho conhecimento em SQL, Python.</p></li>
-  <li><p align="left">  ⚡ Gosto de ler e até mesmo documentar minhas leituras, seja apenas com marcação ou anotando sobre o que vi do livro, jogar e meu maior passatempo é customizar meu Linux.</p></li>
+  <li><p align="left">  💬 Tenho 22 anos e atualmente moro no estado de Alagoas. Minha maior especialidade é Java, porém meu conhecimento vai muito além disso, tenho conhecimento em SQL, Javascript.</p></li>
+  <li><p align="left">  ⚡ Gosto de ler e até mesmo documentar minhas leituras, seja apenas com marcação ou anotando sobre o que vi do livro, tenho um passa tempo de customizar meu linux.</p></li>
 </ul>
 
 ###
@@ -56,8 +56,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=devlimas&locale=pt-br&mode=daily&theme=merko&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"/>
-  <img height="250" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=devlimas&layout=compact&theme=merko" />
+  <img alt="GitHub Stats" src="https://github-readme-stats-mirror.vercel.app/api?username=devlimas&show_icons=true&theme=github_dark" />
+  <img src="https://dev.tuhidulhossain.com/api/top-langs?username=devlimas&theme=github_dark" alt="GitHub Top Languages" />
 </div>
 
 ###
