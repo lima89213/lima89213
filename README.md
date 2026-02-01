@@ -1,63 +1,130 @@
-<div align="left">
-  <img height="200" src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif"/>
-</div>
-
-###
-
-<h1 align="left">Hello, World!</h1>
-
-###
-
 <div>
-  <p>Olá👋! Meu nome é Eduardo de Lima. Sou um estudante de Ciência da computação e apaixonado por <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></p>
-  <ul>
-      <li> 🌱 Atualmente estou focado nos estudos voltados à área, Como por exemplo Java e ferramentas como docker e aws</li>
-      <br>
-      <li> 🔭 Estou em busca da minha primeira oportunidade de emprego, meu sonho é um dia trabalhar como desenvolvedor back-end e futuramente fullstack👨‍💻</li>
-  </ul>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
 
-<h2 align="left">👨‍💻 Sobre mim</h2>
+<h1 align="left">👨🏻‍💻Eduardo de Lima</h1>
 
 ###
 
-<ul>
-  <li><p align="left">  💬 Tenho 22 anos e atualmente moro no estado de Alagoas. Minha maior especialidade é Java, porém meu conhecimento vai muito além disso, tenho conhecimento em SQL, Javascript.</p></li>
-  <li><p align="left">  ⚡ Gosto de ler e até mesmo documentar minhas leituras, seja apenas com marcação ou anotando sobre o que vi do livro, tenho um passa tempo de customizar meu linux.</p></li>
-</ul>
+<p align="left">Olá! Sou o Eduardo de Lima, estudante de Ciência da Computação e desenvolvedor Full Stack apaixonado por construir soluções escaláveis e eficientes. Com foco no ecossistema Java e Spring Boot, trabalho na criação de APIs robustas integradas a bancos de dados SQL e NoSQL. No front-end, utilizo React e Tailwind CSS para criar interfaces modernas alinhadas ao mercado. Além disso, foco básico em containerização com Docker para orquestrar o deploy tanto do back-end quanto do front-end em ambientes cloud como a AWS.<br>ㅤㅤㅤㅤㅤㅤㅤ  <br>  • 🌱 Atualmente em busca de adquirir experiência e maturidade no mercado<br><br>  • 📖 Gosto de compartilhar meus aprendizados através de documentações no notion</p>
 
 ###
 
-<h2 align="left">🛠️ Linguagens e Ferramentas</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-</div>
-<br>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
 <div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats-mirror.vercel.app/api?username=devlimas&show_icons=true&theme=github_dark" />
-  <img src="https://dev.tuhidulhossain.com/api/top-langs?username=devlimas&theme=github_dark" alt="GitHub Top Languages" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=maven" height="60" alt="apachemaven logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<h2 align="left">Redes sociais</h2>
+
+<div align="center">
+  <a src="https://linktr.ee/lima01dev" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"/></a>
+  <a src="https://www.linkedin.com/in/eduardolimar/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a src="lima01dev@gmail.com"  target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  <a src="https://leetcode.com/u/ZywIeB8gLy/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="limas01devs" width="52" height="40"/></a>
+</div>
+
+###
+
+<h2 align="left">Métricas</h2>
+
+###
+
+<div align="center">
+  <a href="metricas">
+  <picture>
+    <source
+      id="github-stats-dark-mode"
+      srcset="https://github-readme-stats-steel-omega.vercel.app/api?username=devlimas&custom_title=devlimas's%20GitHub%20Stats&count_private=false&show_icons=true&disable_animations=true&card_width=440&bg_color=00000000&border_radius=6&border_color=353A3F&title_color=DFE2E6&text_color=AEB5BC&icon_color=3955CD&cache_seconds=43200"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      id="github-stats-light-mode"
+      srcset="https://github-readme-stats-steel-omega.vercel.app/api?username=devlimas&custom_title=devlimas's%20GitHub%20Stats&count_private=false&show_icons=true&disable_animations=true&card_width=440&bg_color=00000000&border_radius=6&border_color=CFD4D9&title_color=3D4255&text_color=6E757C&icon_color=3955CD&cache_seconds=43200"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats-steel-omega.vercel.app/api?username=devlimas&custom_title=devlimas's%20GitHub%20Stats&count_private=false&show_icons=true&disable_animations=true&card_width=440&bg_color=00000000&border_radius=6&border_color=CFD4D9&title_color=3D4255&text_color=6E757C&icon_color=3955CD&cache_seconds=43200"
+      title="devlimas Statistics"
+      alt="GitHub statistics for the devlimas account, displaying contributions and other metrics."
+      loading="lazy"
+    />
+  </picture>
+</a>
+<a href="#-metricas">
+  <picture>
+    <source
+      id="streak-stats-weekly-dark-mode"
+      srcset="https://github-readme-streak-stats-eight.vercel.app?user=devlimas&hide_total_contributions=true&hide_current_streak=false&hide_longest_streak=false&mode=weekly&short_numbers=false&disable_animations=true&card_width=385&card_height=195&background=00000000&border_radius=6&border=353A3F&stroke=353A3F&fire=3955CD&ring=AEB5BC&currStreakNum=AEB5BC&currStreakLabel=AEB5BC&sideNums=AEB5BC&sideLabels=AEB5BC&dates=AEB5BC"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      id="streak-stats-weekly-light-mode"
+      srcset="https://github-readme-streak-stats-eight.vercel.app?user=devlimas&hide_total_contributions=true&hide_current_streak=false&hide_longest_streak=false&mode=weekly&short_numbers=false&disable_animations=true&card_width=385&card_height=195&background=00000000&border_radius=6&border=CFD4D9&stroke=CFD4D9&fire=3955CD&ring=6E757C&currStreakNum=6E757C&currStreakLabel=6E757C&sideNums=6E757C&sideLabels=6E757C&dates=6E757C"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-streak-stats-eight.vercel.app?user=devlimas&hide_total_contributions=true&hide_current_streak=false&hide_longest_streak=false&mode=weekly&short_numbers=false&disable_animations=true&card_width=385&card_height=195&background=00000000&border_radius=6&border=CFD4D9&stroke=CFD4D9&fire=3955CD&ring=6E757C&currStreakNum=6E757C&currStreakLabel=6E757C&sideNums=6E757C&sideLabels=6E757C&dates=6E757C"
+      title="devlimas Streak Statistics"
+      alt="Streak statistics for the Homelab-Alpha GitHub account, showing current and longest streak."
+      loading="lazy"
+    />
+  </picture>
+</a>
+
+<a href="#-metricas">
+  <picture>
+    <source
+      id="lang-stats-dark-mode"
+      srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=devlimas&count_private=false&card_width=440&show_icons=true&disable_animations=true&layout=compact&bg_color=00000000&border_radius=6&border_color=353A3F&title_color=DFE2E6&text_color=AEB5BC&icon_color=3955CD&cache_seconds=43200"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      id="lang-stats-light-mode"
+      srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=devlimas&count_private=false&card_width=440&show_icons=true&disable_animations=true&layout=compact&bg_color=00000000&border_radius=6&border_color=CFD4D9&title_color=3D4255&text_color=6E757C&icon_color=3955CD&cache_seconds=43200"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=devlimas&count_private=false&card_width=440&show_icons=true&disable_animations=true&layout=compact&bg_color=00000000&border_radius=6&border_color=CFD4D9&title_color=3D4255&text_color=6E757C&icon_color=3955CD&cache_seconds=43200"
+      title="devlimas Programming Language Usage"
+      alt="Top programming languages used by devlimas based on GitHub contributions."
+      loading="lazy"
+    />
+  </picture>
+</a>
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
