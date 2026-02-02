@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Olá! Sou o Eduardo de Lima, estudante de Ciência da Computação e desenvolvedor Full Stack apaixonado por construir soluções escaláveis e eficientes. Com foco no ecossistema Java e Spring Boot, trabalho na criação de APIs robustas integradas a bancos de dados SQL e NoSQL. No front-end, utilizo React e Tailwind CSS para criar interfaces modernas alinhadas ao mercado. Além disso, foco básico em containerização com Docker para orquestrar o deploy tanto do back-end quanto do front-end em ambientes cloud como a AWS.<br>ㅤㅤㅤㅤㅤㅤㅤ  <br>  • 🌱 Atualmente em busca de adquirir experiência e maturidade no mercado<br><br>  • 📖 Gosto de compartilhar meus aprendizados através de documentações no notion</p>
+<p align="left">Olá! Sou o Eduardo de Lima, estudante de Ciência da Computação e desenvolvedor Full Stack apaixonado por construir soluções escaláveis e eficientes. Com foco no ecossistema Java e Spring Boot, trabalho na criação de APIs robustas integradas a bancos de dados SQL e NoSQL. No front-end, utilizo React e Tailwind CSS para criar interfaces modernas alinhadas ao mercado. Além disso, foco básico em containerização com Docker para orquestrar o deploy tanto do back-end quanto do front-end em ambientes cloud como a AWS.<br>ㅤㅤㅤㅤㅤㅤㅤ  <br>  • 🌱 Atualmente em busca de adquirir experiência e maturidade no mercado<br><br>  • 📝 Gosto de compartilhar meus aprendizados através de documentações no notion</p>
 
 ###
 
@@ -44,12 +44,12 @@
 
 <h2 align="left">Redes sociais</h2>
 
-<div align="center">
-  <a src="https://linktr.ee/lima01dev" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"/></a>
-  <a src="https://www.linkedin.com/in/eduardolimar/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a src="lima01dev@gmail.com"  target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
-  <a src="https://leetcode.com/u/ZywIeB8gLy/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="limas01devs" width="52" height="40"/></a>
-</div>
+[![Portifolio](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)](https://www.google.com/webhp?hl=pt-BR&sa=X&ved=0ahUKEwiNlO7MpMGOAxWME7kGHUZ5HCEQPAgI/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardolimar/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lima01dev@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/ZywIeB8gLy/)
+[![Acervo](https://img.shields.io/badge/-%20?style=for-the-badge&logo=Meu-acervo&logoColor=Meu%20acervo&logoSize=Meu%20acervo&label=Meu%20acervo&labelColor=%23960019&color=%23960019&cacheSeconds=Meu%20acervo
+)](https://www.notion.so/Minha-Biblioteca-Digital-233ff6cac8d48083a000c637bbc6e406?source=copy_link)
 
 ###
 
