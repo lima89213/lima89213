@@ -120,6 +120,17 @@
   </picture>
 </a>
 </div>
+<div align="center">
+  <h2>🚀 Meu Progresso no HackerRank</h2>
+  
+  <a href="https://www.hackerrank.com/profile/eduardoabcl">
+    <img src="https://hackerrank-stats.vercel.app/api?username=eduardoabcl&theme=dark" alt="HackerRank Stats" />
+  </a>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Problemas_Resolvidos-Check-2EC866?style=flat-square&logo=hackerrank" alt="Status">
+  </p>
+</div>
 
 ###
 
