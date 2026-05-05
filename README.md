@@ -1,59 +1,164 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
 
-<h1 align="left">👨🏻‍💻Eduardo de Lima</h1>
+<h2 align="left">Olá! Seja bem-vindo(a)!</h2>
 
 ###
 
-<p align="left">Olá! Sou o Eduardo de Lima, estudante de Ciência da Computação e desenvolvedor Full Stack apaixonado por construir soluções escaláveis e eficientes. Com foco no ecossistema Java e Spring Boot, trabalho na criação de APIs robustas integradas a bancos de dados SQL e NoSQL. No front-end, utilizo React e Tailwind CSS para criar interfaces modernas alinhadas ao mercado. Além disso, foco básico em containerização com Docker para orquestrar o deploy tanto do back-end quanto do front-end em ambientes cloud como a AWS.<br>ㅤㅤㅤㅤㅤㅤㅤ  <br>  • 🌱 Atualmente em busca de adquirir experiência e maturidade no mercado<br><br>  • 📝 Gosto de compartilhar meus aprendizados através de documentações no notion</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15148BDA&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+em+Java" alt="Typing SVG" /></a>
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<img align="left" height="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Animals/Penguin.png"  />
+
+###
+
+<p align="left">🎓 Graduando em Ciência da Computação (4º ano) pela Uninter.<br><br>🚀 Desenvolvedor apaixonado por criar soluções completas - do backend ao frontend, com forte expertise em arquitetura de sistemas, APIs REST e bancos de dados relacionais.</p>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<h3 align="left">🛠️ Sobre mim</h3>
+
+###
+<ul align="left">
+  <li><b>Backend & APIs:</b> Desenvolvimento de APIs REST com C#, ASP.NET Core, integração com bancos de dados e arquitetura em camadas</li>
+  <li><b>Banco de Dados:</b> Modelagem, implementação e otimização de bancos SQL Server (Stored Procedures, Triggers, Views)</li>
+  <li><b>Frontend:</b> Construção de interfaces web modernas com HTML5, CSS3, JavaScript e React</li>
+  <li><b>Arquitetura:</b> Experiência com padrões MVC, Clean Architecture, Dapper e Entity Framework</li>
+  <li><b>Desenvolvimento Web:</b> Sistemas web completos com PHP e ASP.NET MVC</li>
+  <li><b>Algoritmos & Estruturas de Dados:</b> Implementação de árvores binárias, estruturas complexas em C++ e C#</li>
+  <li><b>Pesquisa & Documentação:</b> Uso do inglês como ferramenta principal para documentação técnica e pesquisa</li>
+</ul>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<h3 align="left"><b>🚀 Projetos em Destaque</b></h3>
+
+###
+
+<p><b>💼 Sistemas Empresariais</b></p>
+<ul align="left">
+  <li><b>DataPulseCM</b> - Desenvolvimento de APIs REST com C#, ASP.NET Core, integração com bancos de dados e arquitetura em camadas</li>
+  <li><b>ECommerceCM</b> - Modelagem, implementação e otimização de bancos SQL Server (Stored Procedures, Triggers, Views)</li>
+  <li><b>Empréstimos ASP.NET</b> - Construção de interfaces web modernas com HTML5, CSS3, JavaScript e React</li>
+  <li><b>Sistema Gestão Pedidos MVC </b>Experiência com padrões MVC, Clean Architecture, Dapper e Entity Framework</li>
+</ul>
+
+<p><b>🔌 APIs & Backend</b></p>
+<ul align="left">
+  <li><b>API Usuario C#</b> - Desenvolvimento de APIs REST com C#, ASP.NET Core, integração com bancos de dados e arquitetura em camadas</li>
+  <li><b>CrudDapper</b> - Modelagem, implementação e otimização de bancos SQL Server (Stored Procedures, Triggers, Views)</li>
+  <li><b>MensageriaTester</b> - Construção de interfaces web modernas com HTML5, CSS3, JavaScript e React</li>
+</ul>
+
+<p><b>🎯 Web Development</b></p>
+<ul align="left">
+  <li><b>Work Session Tracker</b> - Rastreador de sessões de trabalho em JavaScript</li>
+  <li><b>RestaurantePHP</b> - Sistema completo para restaurante em PHP MVC</li>
+  <li><b>TestReact-ASP.NET</b> - Integração React + ASP.NET</li>
+</ul>
+
+<p><b>🗄️ Banco de Dados & SQL</b></p>
+<ul align="left">
+  <li><b>SQL Triggers</b> - Exemplos práticos de triggers em SQL Server</li>
+  <li><b>SQL CHARINDEX-PATINDEX-IIF</b> - Exercícios de funções SQL Server</li>
+  <li><b>Desafio Congresso SQL</b> - Resolução de desafio em T-SQL</li>
+</ul>
+
+<p><b>🎮 Projetos Educacionais & Jogos</b></p>
+<ul align="left">
+  <li><b>XADREZ C# Console</b> - Jogo de xadrez completo em console C#</li>
+  <li><b>Batalha Naval C++</b> - Implementação do clássico jogo em C++</li>
+  <li><b>Jogo da Forca C++</b> - Jogo interativo em C++</li>
+</ul>
+
+<p><b>📚 Estudos & Conceitos</b></p>
+<ul align="left">
+  <li><b>Árvore Binária de Busca C++</b> - Implementação de ABB</li>
+  <li><b>Árvores C++</b> - Estruturas de árvores em C++</li>
+  <li><b>LINQ with Lambda C#</b> - Exemplos de LINQ e expressões Lambda</li>
+  <li><b>Exceções Personalizadas C#</b> - Tratamento de exceções em C#</li>
+  <li><b>Herança em C#</b> - Exercícios de POO</li>
+</ul>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<h3 align="left">💻 Stack Tecnológica</h3>
 
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="60" alt="apachemaven logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angularjs logo"  />
 </div>
 
 ###
 
-<h2 align="left">Redes sociais</h2>
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lima01dev@gmail.com)
-[![Portifolio](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)](https://www.google.com/webhp?hl=pt-BR&sa=X&ved=0ahUKEwiNlO7MpMGOAxWME7kGHUZ5HCEQPAgI/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/ZywIeB8gLy/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardolimar/)
-[![Acervo](https://img.shields.io/badge/-%20?style=for-the-badge&logo=Meu-acervo&logoColor=Meu%20acervo&logoSize=Meu%20acervo&label=Meu%20acervo&labelColor=%23960019&color=%23960019&cacheSeconds=Meu%20acervo
-)](https://www.notion.so/Minha-Biblioteca-Digital-233ff6cac8d48083a000c637bbc6e406?source=copy_link)
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
 
-<h2 align="left">Métricas</h2>
+<h3 align="left">🌐 Redes</h3>
+
+###
+
+<div align="center">
+  <a href="mailto:lima01dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" /></a><a href="https://www.google.com/webhp?hl=pt-BR&sa=X&ved=0ahUKEwiNlO7MpMGOAxWME7kGHUZ5HCEQPAgI/"><img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" height="35" alt="Portfolio" /></a><a href="https://leetcode.com/u/ZywIeB8gLy/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" height="35" alt="LeetCode" /></a><a href="https://www.linkedin.com/in/eduardolimar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" /></a><a href="https://www.notion.so/Minha-Biblioteca-Digital-233ff6cac8d48083a000c637bbc6e406?source=copy_link"><img src="https://img.shields.io/badge/Meu%20Acervo-960019?style=for-the-badge&logo=notion&logoColor=white" height="35" alt="Acervo" /></a><a href="https://hackerrank-stats.vercel.app/api?username=eduardoabcl&theme=dark"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="35" alt="HackerRank" /></a>
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<h3 align="left">🔎 Status</h3>
 
 ###
 
@@ -120,9 +225,7 @@
   </picture>
 </a>
 </div>
-<div align="center">
-  <h2>🚀 Meu Progresso no HackerRank</h2>
-  
+<div align="center">  
   <a href="https://www.hackerrank.com/profile/eduardoabcl">
     <img src="https://hackerrank-stats.vercel.app/api?username=eduardoabcl&theme=dark" alt="HackerRank Stats" />
   </a>
@@ -132,10 +235,11 @@
   </p>
 </div>
 
-###
 
+###
+  
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
