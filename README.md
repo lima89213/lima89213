@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🎓 Graduando em Ciência da Computação (4º ano) pela Uninter.<br><br>🚀 Desenvolvedor apaixonado por criar soluções completas - do backend ao frontend, com forte expertise em arquitetura de sistemas, APIs REST e bancos de dados relacionais.</p>
+<p align="left">🎓 Graduando em Ciência da Computação (4º ano) pela Uninter.<br><br>🚀 Desenvolvedor apaixonado por criar soluções completas - do backend ao frontend, com conhecimento em arquitetura de sistemas, APIs REST e bancos de dados relacionais e não relacionais.</p>
 
 ###
 
@@ -30,13 +30,12 @@
 
 ###
 <ul align="left">
-  <li><b>Backend & APIs:</b> Desenvolvimento de APIs REST com C#, ASP.NET Core, integração com bancos de dados e arquitetura em camadas</li>
-  <li><b>Banco de Dados:</b> Modelagem, implementação e otimização de bancos SQL Server (Stored Procedures, Triggers, Views)</li>
-  <li><b>Frontend:</b> Construção de interfaces web modernas com HTML5, CSS3, JavaScript e React</li>
-  <li><b>Arquitetura:</b> Experiência com padrões MVC, Clean Architecture, Dapper e Entity Framework</li>
-  <li><b>Desenvolvimento Web:</b> Sistemas web completos com PHP e ASP.NET MVC</li>
-  <li><b>Algoritmos & Estruturas de Dados:</b> Implementação de árvores binárias, estruturas complexas em C++ e C#</li>
-  <li><b>Pesquisa & Documentação:</b> Uso do inglês como ferramenta principal para documentação técnica e pesquisa</li>
+  <li><b>Backend & APIs:</b> Desenvolvimento de APIs REST com Java com SpringBoot, integração com bancos de dados e arquitetura em camadas</li>
+  <li><b>Banco de Dados:</b> Modelagem, implementação e otimização de bancos SQL(Replication, Triggers, Views e Caching Patterns)</li>
+  <li><b>Frontend:</b> Construção de interfaces web modernas com HTML5, CSS3, Typescprit e React</li>
+  <li><b>Arquitetura:</b> Entedimento sobre padrões MVC, Distríbuidos, dentre outros e boas práticas como DRY, KISS e YAGNI</li>
+  <li><b>Algoritmos & Estruturas de Dados:</b> Implementação de Array, Linked List, Pilhas e Filas, estruturas complexas em Java</li>
+  <li><b>Pesquisa & Documentação:</b> Uso o obsidian como ferramenta principal para documentação técnica, após a finalização dos projetos o readme aceita o formato .md</li>
 </ul>
 
 ###
@@ -51,49 +50,34 @@
 
 ###
 
-<p><b>💼 Sistemas Empresariais</b></p>
+<p><b>💼 Sistemas</b></p>
 <ul align="left">
-  <li><b>DataPulseCM</b> - Desenvolvimento de APIs REST com C#, ASP.NET Core, integração com bancos de dados e arquitetura em camadas</li>
-  <li><b>ECommerceCM</b> - Modelagem, implementação e otimização de bancos SQL Server (Stored Procedures, Triggers, Views)</li>
-  <li><b>Empréstimos ASP.NET</b> - Construção de interfaces web modernas com HTML5, CSS3, JavaScript e React</li>
-  <li><b>Sistema Gestão Pedidos MVC </b>Experiência com padrões MVC, Clean Architecture, Dapper e Entity Framework</li>
+  <li><b>Fercon (Loja de Produtos)</b> - Desenvolvimento de APIs RESTful com React,Java, SpringBoot, Docker, Redis, integração com bancos de dados além de usar replicação no banco de dados para Read, Insert/Update, ElasticSearch como motor de busca.</li>
+  <li><b>EncurtadorURL</b> - Sistema basico de encurtador de URLs, usando apenas SpringBoot e Next.js, seguindo o padrão de base 62.</li>
+  <li><b>Gestão de Pedidos MVC </b> - Experiência com padrões MVC, Java, SpringBoot, Angular Clean Architecture.</li>
 </ul>
 
 <p><b>🔌 APIs & Backend</b></p>
 <ul align="left">
-  <li><b>API Usuario C#</b> - Desenvolvimento de APIs REST com C#, ASP.NET Core, integração com bancos de dados e arquitetura em camadas</li>
-  <li><b>CrudDapper</b> - Modelagem, implementação e otimização de bancos SQL Server (Stored Procedures, Triggers, Views)</li>
-  <li><b>MensageriaTester</b> - Construção de interfaces web modernas com HTML5, CSS3, JavaScript e React</li>
+  <li><b> Servidor de Chat via TCP</b> - Construção de um servidor de chat via terminal construido apenas em Rust.</li>
+  <li><b> PayFlow API</b> - Construção de um sistema back-end de pagamento, para o entendimento sobre DTOs e Tokens.</li>
 </ul>
 
 <p><b>🎯 Web Development</b></p>
 <ul align="left">
-  <li><b>Work Session Tracker</b> - Rastreador de sessões de trabalho em JavaScript</li>
-  <li><b>RestaurantePHP</b> - Sistema completo para restaurante em PHP MVC</li>
-  <li><b>TestReact-ASP.NET</b> - Integração React + ASP.NET</li>
+  <li><b>LogiTrack API</b> - Sistema Logístico e Frete, consumindo APIs externas, construido em Java e Angular c de sessões de trabalho em JavaScript.</li>
+  <li><b>To Do-List</b> - Sistema de To Do-List em Typescript e React.</li>
+  <li><b>Aesis-Host</b> - Aprendizado sobre TailwindCSS com a criação de uma página.</li>
 </ul>
 
 <p><b>🗄️ Banco de Dados & SQL</b></p>
 <ul align="left">
-  <li><b>SQL Triggers</b> - Exemplos práticos de triggers em SQL Server</li>
-  <li><b>SQL CHARINDEX-PATINDEX-IIF</b> - Exercícios de funções SQL Server</li>
-  <li><b>Desafio Congresso SQL</b> - Resolução de desafio em T-SQL</li>
+  <li><b>SQL Triggers</b> - Exemplos práticos de triggers em SQL.</li>
 </ul>
 
 <p><b>🎮 Projetos Educacionais & Jogos</b></p>
 <ul align="left">
-  <li><b>XADREZ C# Console</b> - Jogo de xadrez completo em console C#</li>
-  <li><b>Batalha Naval C++</b> - Implementação do clássico jogo em C++</li>
-  <li><b>Jogo da Forca C++</b> - Jogo interativo em C++</li>
-</ul>
-
-<p><b>📚 Estudos & Conceitos</b></p>
-<ul align="left">
-  <li><b>Árvore Binária de Busca C++</b> - Implementação de ABB</li>
-  <li><b>Árvores C++</b> - Estruturas de árvores em C++</li>
-  <li><b>LINQ with Lambda C#</b> - Exemplos de LINQ e expressões Lambda</li>
-  <li><b>Exceções Personalizadas C#</b> - Tratamento de exceções em C#</li>
-  <li><b>Herança em C#</b> - Exercícios de POO</li>
+  <li><b>Jogo da Forca Python</b> - Jogo interativo em Python.</li>
 </ul>
 
 ###
@@ -109,29 +93,35 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="60" alt="rabbitmq logo"  />
 </div>
 
 ###
@@ -243,3 +233,4 @@
 </div>
 
 ###
+
