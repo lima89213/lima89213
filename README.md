@@ -64,6 +64,7 @@
 
 <p><b>🔌 APIs & Backend</b></p>
 <ul align="left">
+  <li><b> Notificações em Tempo Real</b> - Construção de um servidor de chat via terminal construido apenas em Rust.</li>
   <li><b> Servidor de Chat via TCP</b> - Construção de um servidor de chat via terminal construido apenas em Rust.</li>
   <li><b> PayFlow API</b> - Construção de um sistema back-end de pagamento, para o entendimento sobre DTOs e Tokens.</li>
 </ul>
