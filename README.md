@@ -81,6 +81,15 @@
   <li><b>SQL Triggers</b> - Exemplos práticos de triggers em SQL.</li>
 </ul>
 
+<p><b>📚 Estudos & Conceitos</b></p>
+<ul align="left">
+  <li><b>Árvore Binária de Busca C++ - Implementação de ABB.</li>
+  <li><b>Árvores C++ - Estruturas de árvores em C++</li>
+  <li><b>LINQ with Lambda C# - Exemplos de LINQ e expressões Lambda</li>
+  <li><b>Exceções Personalizadas C# - Tratamento de exceções em C#</li>
+  <li><b>Herança em C# - Exercícios de POO</li>
+</ul>
+
 <p><b>🎮 Projetos Educacionais & Jogos</b></p>
 <ul align="left">
   <li><b>Jogo da Forca Python</b> - Jogo interativo em Python.</li>
